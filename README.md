@@ -1,6 +1,6 @@
 # IntermediateSQLqueries
 
-This repository contains three data sets in excel format: 
+##### This repository contains three data sets in excel format: 
 
 - A “films” data set which includes the titles of films, the year they were released, the country, the duration in minutes, the language of the film, the certification, gross revenue, and the budget of the film.
 
@@ -8,7 +8,7 @@ This repository contains three data sets in excel format:
 
 - A “Reviews” data set which includes a film ID, user number, critic number, imdb score, number of votes, and number of facebook likes
 
-This repository also contains a list a SQL queries that use the previously mentioned data sets. These queries demonstrate how to:
+##### This repository also contains a list a SQL queries that use the previously mentioned data sets. These queries demonstrate how to:
 
 Select and count data
 
