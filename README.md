@@ -11,7 +11,6 @@
 - Use aggregate functions to summarize data.
 - Sort and group data using various features.
 
-### Click [here](https://isaac110820.github.io/SQLqueries-In-Rmd/Rmarkdown.html) to see the full project in Rmd (code and output).
 
 ### Click [here](https://github.com/Isaac110820/IntermediateSQLqueries/blob/main/IntermediateSQLqueries.sql) to see the original project in SQL (code only).
 
