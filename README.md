@@ -13,5 +13,4 @@
 -	Use aggregate functions to summarize data.
 -	Sort and group data using various features.
 
-Click here to see the project
-
+[Click here to see the project](https://isaac110820.github.io/IntermediateSQLqueries/int_sql.html)
